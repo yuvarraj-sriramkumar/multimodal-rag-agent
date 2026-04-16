@@ -1,0 +1,35 @@
+Colors and Visual Properties
+Objects in images can be described by their color, brightness, texture, and material. Common colors include red, orange, yellow, green, blue, purple, pink, brown, black, white, and gray. Objects can be bright or dark, shiny or matte, transparent or opaque. Skin tones range from light to dark. Hair colors include black, brown, blonde, red, gray, and white. Sky colors vary from blue during daytime to orange and pink at sunset and dark blue or black at night. Grass and trees are typically green. Water appears blue, gray, or green depending on lighting and depth. Snow and clouds are white. Dirt and sand appear brown or beige.
+
+Shapes and Geometry
+Basic two-dimensional shapes include circles, squares, rectangles, triangles, ovals, diamonds, and pentagons. Three-dimensional shapes include spheres, cubes, cylinders, cones, and pyramids. Objects can be described as round, flat, curved, angular, pointed, or irregular. Roads and paths are often straight or curved lines. Buildings have rectangular or square footprints with vertical walls. Wheels are circular. Plates and coins are circular and flat. Windows are typically rectangular or square. Arches are curved. Mountains and hills have triangular or irregular silhouettes.
+
+Spatial Relationships and Position
+Objects in images occupy positions described as left, right, center, top, bottom, foreground, and background. Spatial prepositions include: on top of, underneath, beside, next to, behind, in front of, inside, outside, above, below, between, and around. A person sitting means they are in a seated position. Standing means upright on feet. Lying down means horizontal. Leaning means at an angle against a surface. Holding means an object is in contact with or gripped by hands. Carrying means transporting an object. Pointing means indicating a direction with a finger or object.
+
+Counting and Quantity
+Images often depict one, two, three, four, five, or more objects. Common quantity descriptors include: none, one, a pair, several, a few, many, a group, a crowd, and a flock. A pair refers to two of the same item. A flock refers to a group of birds. A herd refers to a group of large animals like cows or elephants. A school refers to a group of fish. People in groups can be described as a couple, family, team, or crowd.
+
+Animals
+Common animals depicted in images include dogs, cats, birds, horses, cows, sheep, pigs, elephants, lions, tigers, bears, rabbits, squirrels, ducks, chickens, fish, turtles, snakes, and deer. Dogs are often seen running, sitting, lying, or fetching. Cats are often sitting, lying, or climbing. Birds are often perched on branches or flying. Horses are often standing, running, or being ridden. Cows and sheep are often grazing in fields. Wild animals like elephants and giraffes are found in grasslands and savannas. Birds of prey like eagles and hawks are seen soaring.
+
+Sports and Physical Activities
+Common sports depicted include soccer, basketball, baseball, tennis, football, volleyball, swimming, skiing, snowboarding, cycling, running, surfing, and skateboarding. Soccer players kick a round ball on a grass field. Basketball players shoot a ball into a hoop on a court. Tennis players use rackets to hit a ball over a net. Baseball players use bats to hit a ball and run between bases. Football players carry or throw an oval ball on a field. Swimmers are in water, often in lanes in a pool. Skiers slide down snow-covered slopes. Cyclists ride bicycles on roads or trails. Surfers ride waves on boards in the ocean.
+
+Food and Drink
+Common foods visible in images include pizza, sandwiches, burgers, salads, pasta, sushi, fruit, vegetables, bread, cake, and ice cream. Common drinks include water, juice, coffee, tea, soda, wine, and beer. Food is often served on plates or in bowls. Drinks are served in glasses, cups, mugs, or bottles. Restaurants typically show tables with food, menus, and people eating. Kitchens contain stoves, ovens, refrigerators, and countertops with food preparation visible. Markets and grocery stores show shelves stocked with produce, canned goods, and packaged food.
+
+Furniture and Indoor Scenes
+Indoor scenes often contain furniture such as chairs, sofas, tables, beds, desks, shelves, and cabinets. Living rooms typically have sofas, coffee tables, and televisions. Bedrooms contain beds, pillows, nightstands, and wardrobes. Kitchens have countertops, sinks, stoves, and refrigerators. Offices contain desks, computers, and office chairs. Bathrooms have sinks, toilets, bathtubs, and mirrors. Floors are made of wood, tile, carpet, or concrete. Walls are painted in various colors or covered with wallpaper, artwork, or shelves.
+
+Vehicles and Transportation
+Common vehicles in images include cars, trucks, buses, motorcycles, bicycles, trains, airplanes, boats, and helicopters. Cars come in sedans, SUVs, pickup trucks, and vans. Cars are found on roads, highways, and parking lots. Trains run on tracks and are found in stations. Airplanes are found at airports or in the sky. Boats and ships are found on water. Bicycles and motorcycles are found on roads and paths. Street signs, traffic lights, crosswalks, and road markings are common in urban traffic scenes. Parking lots contain rows of parked vehicles.
+
+Outdoor Scenes and Nature
+Common outdoor scenes include parks, forests, beaches, mountains, deserts, farmlands, and urban streets. Parks have green grass, trees, benches, and pathways. Forests are dense with trees, undergrowth, and natural light filtering through canopy. Beaches have sand, waves, and often umbrellas, towels, and people swimming or sunbathing. Mountains have steep rocky slopes, snow caps, and valleys. Deserts have sand dunes, rocky terrain, and sparse vegetation. Farms have fields, crops, barns, silos, and farm animals. Urban streets have buildings, sidewalks, storefronts, traffic lights, and people walking.
+
+Clothing and Accessories
+People in images wear various types of clothing. Common tops include shirts, t-shirts, blouses, jackets, coats, and sweaters. Common bottoms include pants, jeans, shorts, skirts, and dresses. Footwear includes shoes, sneakers, boots, sandals, and heels. Headwear includes hats, caps, helmets, and beanies. Accessories include glasses, sunglasses, watches, jewelry, bags, backpacks, and umbrellas. Uniforms are worn by athletes, police officers, military personnel, chefs, and medical workers. Colors and patterns of clothing help identify individuals and their roles.
+
+Weather and Lighting
+Weather conditions visible in images include sunny, cloudy, overcast, rainy, snowy, foggy, and windy. Sunny scenes have bright light, clear shadows, and vivid colors. Cloudy scenes have diffuse lighting and muted colors. Rain creates wet surfaces with reflections. Snow creates a white covering on surfaces. Fog reduces visibility and creates a hazy, muted scene. Indoor lighting comes from ceiling lights, lamps, and windows. Natural light changes throughout the day from warm golden morning light to bright midday sun to warm orange evening light.
