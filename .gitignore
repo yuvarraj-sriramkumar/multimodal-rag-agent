@@ -9,3 +9,4 @@ venv/
 eval_results_*.json
 *.png
 *.jpg
+.DS_Store
